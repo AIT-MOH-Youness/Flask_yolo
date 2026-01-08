@@ -18,7 +18,6 @@ pils_mobile/*.iml
 pils_mobile/.DS_Store
 
 # YOLO Models (trop volumineux pour GitHub)
-*.pt
 *.onnx
 
 # Jupyter
