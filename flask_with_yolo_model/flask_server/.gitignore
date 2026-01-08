@@ -9,7 +9,6 @@ env/
 ENV/
 
 # YOLO models
-*.pt
 *.weights
 *.onnx
 
